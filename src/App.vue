@@ -25,7 +25,7 @@ import { ref } from 'vue'
 
 <template>
   <div class="info">
-        <h1>Exemplo 1 - Mostrando informações na tela</h1>
+        <h1>Info/h1>
         <p>Nome: {{ nome }} </p>
         <p>Idade: {{ idade }}  anos</p>
         <hr />
